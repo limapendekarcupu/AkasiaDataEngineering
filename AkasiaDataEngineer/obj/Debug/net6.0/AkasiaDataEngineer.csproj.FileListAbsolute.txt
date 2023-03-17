@@ -1,0 +1,196 @@
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\appsettings.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\GoogleSheetKey\delta-carving-379812-c1a78ba93347.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.staticwebassets.runtime.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.exe
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.deps.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.runtimeconfig.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.pdb
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Azure.Core.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Azure.Identity.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Humanizer.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.CodeDom.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Text.Json.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.AssemblyReference.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.AssemblyInfoInputs.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.AssemblyInfo.cs
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.CoreCompileInputs.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.RazorAssemblyInfo.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.RazorAssemblyInfo.cs
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.AkasiaDataEngineer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.build.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\bundle\AkasiaDataEngineer.styles.css
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\projectbundle\AkasiaDataEngineer.bundle.scp.css
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.CopyComplete
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\refint\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.pdb
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.genruntimeconfig.cache
+D:\Github\Akasia - Assessment Test Data Engineer\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\ref\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\appsettings.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\GoogleSheetKey\delta-carving-379812-c1a78ba93347.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.staticwebassets.runtime.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.exe
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.deps.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.runtimeconfig.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\AkasiaDataEngineer.pdb
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Azure.Core.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Azure.Identity.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Humanizer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.CodeDom.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Text.Json.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.AssemblyReference.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.AssemblyInfoInputs.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.AssemblyInfo.cs
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.CoreCompileInputs.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.RazorAssemblyInfo.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.RazorAssemblyInfo.cs
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.AkasiaDataEngineer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.build.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AkasiaDataEngineer.props
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\bundle\AkasiaDataEngineer.styles.css
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\scopedcss\projectbundle\AkasiaDataEngineer.bundle.scp.css
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.csproj.CopyComplete
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\refint\AkasiaDataEngineer.dll
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.pdb
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\AkasiaDataEngineer.genruntimeconfig.cache
+D:\Github\Akasia - Assessment Test Data Engineer - Cloud\AkasiaDataEngineer\AkasiaDataEngineer\obj\Debug\net6.0\ref\AkasiaDataEngineer.dll

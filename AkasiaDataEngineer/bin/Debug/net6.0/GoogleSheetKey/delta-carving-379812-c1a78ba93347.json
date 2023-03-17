@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "delta-carving-379812",
+  "private_key_id": "c1a78ba933478388f90f10cb26dc48f2a0bd2508",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDCBfSJIwFMQxh+\ngpt/HG4rSZo7o8UT+Z2RLWU6R9ho1wdXqUh573PCPyikJAXk+AM51o+obo/E+mls\nwKGgk7LXyxRzBnbX8o3oDbtEZmGzEYICg06zBNR80b146FqGNNOlc/oyzwX3pENl\n85cAhwifx8D4xN72XuJSFd6FUbfC9rtkInma22a0fzBdpwqKgo2BGjlwRQPz24Fz\nioWT/SvNkD0UzqS+XkTTs4uenY0C7Nt/CBwWhmVPXGWHVDVYJcQuFHwDKesF96ig\nhXjeOqFw12J3rwzgmluPR37P/GDOUlHZ+tPDBW0sKLEit9ZRyrVORcOeXIOoaRmP\nnB4dcWQBAgMBAAECggEAFPvPkHH8kXK44vHIKcKkOEKbuh3Xp3XkcHo64PHlOfgg\n1KkRFr2Vb5QkwT/IyBR58NbqLtqqP4ZKQZdBw7FFndNaUP20Jl3BXYVNVAlIlrUV\nh6ULgrlKgSdZOQrUGNX8xSpFDHAEYrMyu4N743Q3NA9GqQD4ZifT4px34O5PaU0q\np32Gma1lo5PwizSgn7+yF+jty7rcfwGpx3dVnPws3+eSOZQGrU95qZUTLfB+87gc\nezy6dCLOuKM0M3F6BobI68Z+m7AZy6tSfdYLbjkakcuGjxOg203oNF9YPI5bY8W3\ngyLf2Wrn2pt9RGn80irJO3hd7n/FVc1vxSZcgxagswKBgQDrGLVs1cJv6+jjZIJW\nUYysM8TONap8/dAfX+OaBKyNWcz9Xf1X/WZcHhOV9JDyaWl9vgiguKosj1jvxugv\n34SufXmEkn8Ju/00M4PL/6632D4I4eqh9wqNW/b1yulLFkaLCutZmNfcarO2eWfK\n+Vim7jmgaE69nzXElH2hcpfjYwKBgQDTRlUz2sM1OIhg9BGPvEr5bN00NYeDyyLi\nwV1VGQkMuvWu7cZBqMs1KeYfMx+l7U+paLSVd4r8IjQhDJCXmv8e1OUp5AP7+44t\ntm8AZSVZqBQJbEXOvVNQKWwkyITaa4/SEiwW4hznt0PmJMkiXYKgQm7Sdi4wjU4f\nf64nR5kCSwKBgQCXeXobv7bhygxpxu67kxuiMFDT1HwewKKCNJQ/Ple3U27iqNZ9\nBQYYwEA6VDO4HPcdT33boF/1Cf9xrqUXg1rH2oybQJCdwwQnyDFZFUqLpcaCjp1Q\n8g1YezKpt62M9bNKDyUIu5QJrq5QGfUoMHRQShnTIqHpR1WrbUls5pq6pQKBgQCb\nXynhjIvqY7zHsDYKAmsQqyKx9nvGTGlHYPSGVHb3SbbMAki+mKd4XWvCnhI0MCVZ\nbIsBMHyhl3XGqDrdgzsDLYWqHOlhMkoJDBTtsXSaTqUNmPZtZ4YReaTyGBS7nEaU\nMpEB8x9WuMvSQFM6VpJt0O03EXo+cmx1daxZbqnzqQKBgQCXO+K58ykJoefcqgCM\n8AQMjtTyNzzWjy47xTl2Dea9mHqtzJR6dJA/XA2X1dGoTznt6EnzFaSPpV3BIwIR\nkkU1RQOiJ1luunQDLA/vcBBxSikYcYDjcbQwf0i6hk/Fo4x/5KU6TZOsYdCZl2TB\n439ZLzDoS1eZpCkWuwa2VXYPZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets@delta-carving-379812.iam.gserviceaccount.com",
+  "client_id": "114527928300252696391",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets%40delta-carving-379812.iam.gserviceaccount.com"
+}
